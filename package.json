@@ -1,0 +1,23 @@
+{
+  "name": "wavelogger",
+  "version": "0.0.1",
+  "description": "A js logger can log to both client side and server side.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wavesnows/wavelogger.git"
+  },
+  "keywords": [
+    "logger",
+    "js"
+  ],
+  "author": "wavesnow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wavesnows/wavelogger/issues"
+  },
+  "homepage": "https://github.com/wavesnows/wavelogger#readme"
+}
